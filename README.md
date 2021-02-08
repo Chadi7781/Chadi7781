@@ -1,18 +1,9 @@
-<h1 align="center">
-Hi There 👋 <br> 
-This is Shady Troudi</h1>
-
-<h3 align="center">
-Full Stack Developer
-I'm a Full Stack Developer
-</h3>
-
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Shady Troudi 👋</b></h1>
 </p>
-
+<h4 align="center"><b>I'm a Full Stack Developer</b></h4>
 <p>
   <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
 </p>
