@@ -11,7 +11,10 @@
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
 </p>
-https://github-profile-trophy.vercel.app/?username=Shady7781&theme=onedark)](https://github.com/Shady7781/github-profile-trophy
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shady7781" alt="Shady7781" /></a> </p>
+
+<img title="GITHUB sTATS" text-align="center"  src="https://github-readme-stats.vercel.app/api?username=ayarii&theme=dark&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
+
 <p align="center">
 <br>
 <a href="https://www.facebook.com/smarty.saisumanth"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
