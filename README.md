@@ -12,7 +12,6 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
 </p>
 https://github-profile-trophy.vercel.app/?username=Shady7781&theme=onedark)](https://github.com/Shady7781/github-profile-trophy
-
 <p align="center">
 <br>
 <a href="https://www.facebook.com/smarty.saisumanth"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
