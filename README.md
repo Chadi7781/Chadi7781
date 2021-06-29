@@ -11,6 +11,7 @@
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shady7781&theme=onedark)](https://github.com/Shady7781/github-profile-trophy)
 
 <p align="center">
 <br>
