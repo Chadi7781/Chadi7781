@@ -1,7 +1,7 @@
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Shady Troudi 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Chedi Troudi 👋</b></h1>
 </p>
 <h4 align="center"><b>I'm a Full Stack Developer</b></h4>
 <p>
@@ -11,7 +11,7 @@
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shady7781" alt="Shady7781" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chadi7781" alt="Chadi7781" /></a> </p>
 
 <p align="center">
 <br>
@@ -56,13 +56,13 @@
  </p>
 
 <p align="center">
-  <a href="https://github.com/Shady7781">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shady7781&count_private=true&hide_border=true&show_icons=true" alt="Shady7781's github stats">
+  <a href="https://github.com/Chadi7781">
+    <img src="https://github-readme-stats.vercel.app/api?username=Chadi7781&count_private=true&hide_border=true&show_icons=true" alt="Chadi7781's github stats">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Shady7781">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shady7781&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Shady7781's github stats">
+  <a href="https://github.com/Chadi7781">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chadi7781&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Chadi7781's github stats">
   </a>
 </p>
 
