@@ -1,15 +1,17 @@
 
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<!--   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)  -->
+    <img align="center" alt="visitors" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+
 <p>
   <h1 align="center"><b>Hello there, I'm Chadi Troudi 👋</b></h1>
 </p>
-<h4 align="center"><b>I'm a Full Stack Developer</b></h4>
+<h4 align="center"><b>I'm a engineering software student </b></h4>
 <p>
   <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/" />
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chadi7781" alt="Chadi7781" /></a> </p>
 
