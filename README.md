@@ -1,6 +1,5 @@
 
-<!--   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)  -->
-    <img align="center" alt="visitors" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+  [![Matrix SVG](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)]
 
 <p>
   <h1 align="center"><b>Hello there, I'm Chadi Troudi 👋</b></h1>
