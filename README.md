@@ -1,5 +1,4 @@
-
-![[Matrix SVG](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)]
+ [![Matrix SVG](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)]
 
 <p>
   <h1 align="center"><b>Hello there, I'm Chadi Troudi 👋</b></h1>
