@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Chadi7781" />
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chadi7781" alt="Chadi7781" /></a> </p>
 
