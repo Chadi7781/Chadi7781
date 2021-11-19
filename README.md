@@ -3,7 +3,7 @@
 <p>
   <h1 align="center"><b>Hello there, I'm Chadi Troudi 👋</b></h1>
 </p>
-<h4 align="center"><b>I'm a engineering software student </b></h4>
+<h4 align="center"><b>I'm an engineering software student </b></h4>
 <p>
   <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
 </p>
