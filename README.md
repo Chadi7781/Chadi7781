@@ -17,8 +17,8 @@
 <br>
 <a href="https://www.facebook.com/shado.troudi/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://www.linkedin.com/in/chaditroudi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<!-- <a href="mailto:troudishedy6@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp; -->
-<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+<a href="mailto:troudishedy6@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!-- <a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a> -->
 </p>
 
 <br>
@@ -30,7 +30,7 @@
 - 🔭 I’m currently working on MEAN Stack Development:
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
