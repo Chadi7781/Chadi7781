@@ -59,13 +59,19 @@
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c++.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg">
+  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/android.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/angular.svg">  
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg">
+  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/redux.svg">
+  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/spring.svg">
+ 
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/npm.svg"><br>
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg">
+  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg">
+ 
   <img height="70" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/oracle.svg">
 <br>
@@ -75,26 +81,21 @@
 
 <p align = "center">
   
-[<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black">](https://github.com/AhmedHammami7) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ahmed-hammami7)
-[<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/ahmed.hammami.99)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/ahmed_hammami_7)
-[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:ahmedhammami377@gmail.com)
+[<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black">](https://github.com/Chadi7781) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/chaditroudi)
+[<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/shado.troudi)
+
+[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:chadi.troudi@esprit.tn)
 
 
 </p>
 
 
-<p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedHammami7&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedHammami7&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
 
 
 
 -----
-Credits: [Ahmed Hammami](https://github.com/AhmedHammami7)
+Credits: [Chadi Troudi](https://github.com/AhmedHammami7)
 
 
 <p align="center">
