@@ -1,17 +1,28 @@
 <!--  [![Matrix SVG](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)]
  -->
 
-
+<!-- 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-
+ -->
 <p>
 
   <h1 align="center"><b>Hello there, I'm Chadi Troudi 👋</b></h1>
 </p>
-<h4 align="center"><b>I'm an engineering software student </b></h4>
 <p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
-</p>
+ I'm a Young Software Engineer Student, Content Creator, Community Organizer, Self-Finder and Instructor from Tunis, Tunisia . I'm passionate about sharing knowledge, creating technology to help and elevate people, documentation, software engineering, communities.
+ 
+ </p>
+ 
+ I create technical content (on [dev.to](https://dev.to/chadi) and [YouTube](https://www.youtube.com/channel/UCl7vG5Hl_91o5W4api0E3FA), contribute, maintaine and make useful [open-source projects](https://github.com/chadi7781), present workshops and training sessions and build technical communities.
+
+### <img src="./assets/website.png" width="18" draggable="false"> &nbsp;`WebSite` - [3imed-jaberi.com](https://www.3imed-jaberi.com/) &nbsp; | &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=3imed-jaberi.3imed-jaberi&style=flat-square&color=0088cc" width="85" draggable="false">
+
+<br/>
+
+> My interest in the JavaScript ecosystem led me to launch [ChadiAcademy](....), a E-learning community for Tunisian and Arabic people.
+
+<br/>
+ 
 
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Chadi7781" />
