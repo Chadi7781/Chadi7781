@@ -19,7 +19,7 @@
  -->
 <br/>
 
-> My interest in the JavaScript ecosystem led me to launch [ChadiAcademy](....), a E-learning community for Tunisian and Arabic people.
+> My interest in the coding led me to launch [ChadiAcademy](....), a E-learning community for Tunisian and Arabic people.
 
 <br/>
  
