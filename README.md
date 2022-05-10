@@ -15,8 +15,8 @@
  
  I create technical content (on [dev.to](https://dev.to/chadi) and [YouTube](https://www.youtube.com/channel/UCl7vG5Hl_91o5W4api0E3FA), contribute, maintaine and make useful [open-source projects](https://github.com/chadi7781), present workshops and training sessions and build technical communities.
 
-### <img src="./assets/website.png" width="18" draggable="false"> &nbsp;`WebSite` - [3imed-jaberi.com](https://www.3imed-jaberi.com/) &nbsp; | &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=3imed-jaberi.3imed-jaberi&style=flat-square&color=0088cc" width="85" draggable="false">
-
+<!-- ### <img src="./assets/website.png" width="18" draggable="false"> &nbsp;`WebSite` - [3imed-jaberi.com](https://www.3imed-jaberi.com/) &nbsp; | &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=3imed-jaberi.3imed-jaberi&style=flat-square&color=0088cc" width="85" draggable="false">
+ -->
 <br/>
 
 > My interest in the JavaScript ecosystem led me to launch [ChadiAcademy](....), a E-learning community for Tunisian and Arabic people.
