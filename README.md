@@ -32,8 +32,8 @@
 
 ###I'm an aspiring Tunisian  developer looking for the next challenge  👋 👋 👋😊
 
-- 🔭 I’m currently working on MEAN Stack Development:
-- 🌱 I’m currently learning MERN Stack Development.
+- 🔭 I’m currently working on MERN Stack Development:
+- 🌱 I’m currently working on  ASP NET CORE ClEAN ARCHITECTURE.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
