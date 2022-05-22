@@ -53,14 +53,13 @@
 <!-- - 🎙️ &nbsp; Host the [PRODCAST-NAME]() podcast. -->
 - 🌱 &nbsp; I’m currently learning everything ...
 <!-- - 👨🏻‍🎓 &nbsp; I graduated with a Bachelor's degree in Computer Science from [ISAMM](http://www.isa2m.rnu.tn/). -->
-- 🎓 &nbsp; I’m currently studying Engineer's degree in Computer Science majoring in Software Engineering [@TEK-UP University](https://tek-up.de/).
+- 🎓 &nbsp; I’m currently studying Engineer's degree in Computer Science majoring in Software Engineering [@ESPRIT University](https://esprit.tn/).
 - 👯 &nbsp; I’m looking to collaborate with on performance-related projects.
 <!-- - 🤔 &nbsp; I’m looking for help with ... -->
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/3imed-jaberi).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Chadi7781).
 - 🤝 &nbsp; Welcom for everyone who need help or collaborator.
-- ✅ &nbsp; 2021 Goals: prepare [Tunisian JS Community](https://js-community.tn/) to international stage by organized the [Summit v1.0](https://summit.js-community.tn/).
-- 🥅 &nbsp; 2022 Goals: Work more on the [Tunisian JS Community](https://js-community.tn/) to improve the quality of events.
-- 💬 &nbsp; Ask me about anything (within reason) [here](https://github.com/3imed-jaberi/ama)! I will be happy to help.
+- 🥅 &nbsp; 2022 Goals: Work more on the [Chadi Acadmey](https://comming soon/) to improve the quality of events.
+- 💬 &nbsp; Ask me about anything (within reason) [here](https://github.com/Chadi7781/ama)! I will be happy to help.
 - 📫 &nbsp; How to reach me: &nbsp;
   <a href="https://linkedin.com/in/chaditroudi">
   <img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width="50px">
