@@ -41,17 +41,56 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-###I'm an aspiring Tunisian  developer looking for the next challenge  👋 👋 👋😊
 
-- 🔭 I’m currently working on MERN Stack Development:
-- 🌱 I’m currently working on  ASP NET CORE ClEAN ARCHITECTURE.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2022 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+<br/>
 
+# <img src="./assets/cat.gif" width="50" draggable="false"> About me
+
+- 🔭 &nbsp; I’m currently working on understanding myself...
+- 📝 &nbsp; I write stuff at [dev.to/3imed_jaberi](https://dev.to/3imed_jaberi).
+- 📺 &nbsp; I do some technical/mentor videos at <a href="https://youtube.com/channel/UCXOf69z-gIR7rTRtGQUdCMQ?sub_confirmation=1">
+<img alt="Youtube Badge" src="https://img.shields.io/badge/-Youtube-e4405f?style=flat-square&logo=Youtube&logoColor=white" width="50px"></a>.
+<!-- - 🎙️ &nbsp; Host the [PRODCAST-NAME]() podcast. -->
+- 🌱 &nbsp; I’m currently learning everything ...
+<!-- - 👨🏻‍🎓 &nbsp; I graduated with a Bachelor's degree in Computer Science from [ISAMM](http://www.isa2m.rnu.tn/). -->
+- 🎓 &nbsp; I’m currently studying Engineer's degree in Computer Science majoring in Software Engineering [@TEK-UP University](https://tek-up.de/).
+- 👯 &nbsp; I’m looking to collaborate with on performance-related projects.
+<!-- - 🤔 &nbsp; I’m looking for help with ... -->
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/3imed-jaberi).
+- 🤝 &nbsp; Welcom for everyone who need help or collaborator.
+- ✅ &nbsp; 2021 Goals: prepare [Tunisian JS Community](https://js-community.tn/) to international stage by organized the [Summit v1.0](https://summit.js-community.tn/).
+- 🥅 &nbsp; 2022 Goals: Work more on the [Tunisian JS Community](https://js-community.tn/) to improve the quality of events.
+- 💬 &nbsp; Ask me about anything (within reason) [here](https://github.com/3imed-jaberi/ama)! I will be happy to help.
+- 📫 &nbsp; How to reach me: &nbsp;
+  <a href="https://linkedin.com/in/chaditroudi">
+  <img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width="50px">
+  </a>
+- 😄 &nbsp; Pronouns: ... He/Him/His
+- 👾 &nbsp; Fun fact: ... “A quitter never wins and a winner never quits.”
+
+<details>	
+  <summary><b>🏆 Github Trophies</b></summary>
+	
+  <div align="center"> 
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=Chadi7781&theme=gruvbox" alt="github-profile-trophy"
+      height="180em"
+    />
+    <!-- &title=MultiLanguage,Commit,Repositories,Issues -->
+	</div>
+</details>
+
+<details>	
+  <summary><b>📈 Github Stats</b></summary>
+
+  <div align="center"> 
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=&count_private=true&show_icons=true&theme=gruvbox&locale=en"
+      alt="github-readme-stats"
+      height="180em" 
+    />
+	</div>
+</details>
 <h3 align="center">Languages and Frameworks</h3>
 <br>
 
