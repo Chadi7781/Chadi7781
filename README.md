@@ -23,10 +23,10 @@
 
 <br/>
  
-
+<!-- 
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Chadi7781" />
-</p>
+</p> -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chadi7781" alt="Chadi7781" /></a> </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 # <img src="./assets/cat.gif" width="50" draggable="false"> About me
 
 - 🔭 &nbsp; I’m currently working on understanding myself...
-- 📝 &nbsp; I write stuff at [dev.to/3imed_jaberi](https://dev.to/3imed_jaberi).
+- 📝 &nbsp; I write stuff at [dev.to/chadi](https://dev.to/chadi).
 - 📺 &nbsp; I do some technical/mentor videos at <a href="https://youtube.com/channel/UCXOf69z-gIR7rTRtGQUdCMQ?sub_confirmation=1">
 <img alt="Youtube Badge" src="https://img.shields.io/badge/-Youtube-e4405f?style=flat-square&logo=Youtube&logoColor=white" width="50px"></a>.
 <!-- - 🎙️ &nbsp; Host the [PRODCAST-NAME]() podcast. -->
