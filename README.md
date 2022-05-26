@@ -9,7 +9,7 @@
   <h1 align="center"><b>Hello there, I'm Chadi Troudi 👋</b></h1>
 </p>
 <p>
- I'm a Young Software Engineer Student, Content Creator, Community Organizer, Self-Finder and Instructor from Tunis, Tunisia . I'm passionate about sharing knowledge, creating technology to help and elevate people, documentation, software engineering, communities.
+ I'm a Young Software Engineer Student at Esprit University, Content Creator, Community Organizer, Self-Finder and Instructor from Tunis, Tunisia . I'm passionate about sharing knowledge, creating technology to help and elevate people, documentation, software engineering, communities.
  
  </p>
  
